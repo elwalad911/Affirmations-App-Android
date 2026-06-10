@@ -9,6 +9,8 @@ Introduction
 The Affirmations app contains a scrollable list of 10 cards.
 
 
+https://github.com/user-attachments/assets/0ff20482-9ced-48e0-80a3-685c888b6fab
+
 Pre-requisites
 --------------
 * Familiarity with Lists in Kotlin
